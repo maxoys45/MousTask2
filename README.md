@@ -18,4 +18,4 @@
 
 Good luck and feel free to get in contact if you have any questions.****
 
-![Mous device picker design](https://github.com/maxoys45/mem.png)
+![Mous device picker design](https://github.com/maxoys45/MousTask2/blob/master/design.png)
