@@ -6,7 +6,7 @@
 
 ## Task:
 - We would like you to write the HTML and CSS to replicate the device picker design attached *(ignore the Mous website in the background, it's just a placeholder)*.
-- You're encouraged to use SCSS instead of flat CSS.
+- You're encouraged to use SCSS instead of CSS.
 - Provide a Github link with a live URL.
 
 ## Bonus points:
