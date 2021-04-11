@@ -5,13 +5,13 @@
 - Use whichever tools you like for developing.
 
 ## Task:
-- We would like you to write the HTML and CSS to replicate the device picker design attached *(ignore the Mous website in the background, it's just a placeholder)*.
+- We would like you to write the HTML and CSS to replicate the device picker design attached, try and match the design as closely as possible. *(ignore the Mous website in the background, it's just a placeholder)*.
 - You're encouraged to use SCSS instead of CSS.
 - Provide a Github link with a live URL.
 
 ## Bonus points:
 - Structuring your CSS using BEM.
-- Using JS for the model selector.
+- Using JS to control the model selector slider (welcome to use a library).
 - SEO friendly markup.
 
 ---
